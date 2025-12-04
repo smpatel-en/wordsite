@@ -11,3 +11,4 @@
 [04-Dec-2025 07:26:18 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\EnactOn Tecnologies\Local Sites\wordsite\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
 [04-Dec-2025 07:44:56 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
 [04-Dec-2025 07:50:01 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[04-Dec-2025 10:56:28 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\EnactOn Tecnologies\Local Sites\wordsite\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
